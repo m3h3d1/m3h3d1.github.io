@@ -7,7 +7,7 @@ import { Fragment } from "react";
 
 const experiences = [
   {
-    title: "Bachelor of Science in Information Technology",
+    title: "BSc in Information Technology",
     subtitle: "BSc in IT @ Jahangirnagar University",
     duration: "March 2018 - May 2023",
     text: "Gained a strong foundation of computer science fundamentals, including Data Structures, Algorithms, Operating Systems, Database Management Systems and Object-Oriented Programming.",
@@ -17,14 +17,14 @@ const experiences = [
     title: "Trainee Software Engineer",
     subtitle: "Trainee Software Engineer @ BJIT Limited",
     duration: "Aug 2023 - December 2023",
-    text: "Gained experience in Full Stack Development using Java, Spring Boot, Hibernate, MySQL, HTML, CSS, JavaScript and React.",
+    text: "Built backend APIs using JavaEE and Spring Boot. Experienced in Core Java, JDBC, JPA/Hibernate, and microservices. Worked with Spring Security, clean code, layered architecture, and design patterns. Familiar with Redmine, Jira and project documentation.",
     icon: companyIcon,
   },
   {
     title: "Software Engineer",
     subtitle: "Software Engineer @ BJIT Limited",
     duration: "January 2024 - Present",
-    text: "Worked as a Software Engineer in the development of a web application for a client using Java, Spring Boot, JavaScript and React.",
+    text: "Developed and optimized backend APIs using Java & Spring Boot. Refactored legacy modules with SOLID principles and design patterns. Contributed to feature design, testing and implemented dynamic logging with log4j2. Worked with ELK Stack for monitoring and followed Agile practices.",
     icon: companyIcon,
   }
 ];

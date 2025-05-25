@@ -1,7 +1,7 @@
 import { Header } from "@/sections/Header";
 import { HeroSection } from "@/sections/Hero";
 // import { ProjectsSection } from "@/sections/Projects";
-import { TapeSection } from "@/sections/Tape";
+// import { TapeSection } from "@/sections/Tape";
 import { AchievementsSection } from "@/sections/Achievements";
 import { AboutSection } from "@/sections/About";
 import { ContactSection } from "@/sections/Contact";
@@ -17,7 +17,7 @@ export default function Home() {
       {/* <section id="projects">
         <ProjectsSection />
       </section> */}
-      <TapeSection />
+      {/* <TapeSection /> */}
       <section id="achievements">
         <AchievementsSection />
       </section>
